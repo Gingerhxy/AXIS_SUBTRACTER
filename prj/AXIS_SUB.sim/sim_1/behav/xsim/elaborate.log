@@ -1,0 +1,45 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto a49104cbd3024b4ca4e716b5663968f0 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xbip_utils_v3_0_9 -L c_reg_fd_v12_0_5 -L xbip_dsp48_wrapper_v3_0_4 -L xbip_pipe_v3_0_5 -L xbip_dsp48_addsub_v3_0_5 -L xbip_addsub_v3_0_5 -L c_addsub_v12_0_12 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot AXIS_SUB_TB_behav xil_defaultlib.AXIS_SUB_TB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "D:/Code_repositories/fpga_code/AXIS_SUB/rtl/axis_control.v" Line 5. Module axis_control doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package c_addsub_v12_0_12.c_addsub_v12_0_12_viv_comp
+Compiling package xbip_utils_v3_0_9.xbip_utils_v3_0_9_pkg
+Compiling package xbip_pipe_v3_0_5.xbip_pipe_v3_0_5_viv_comp
+Compiling package xbip_addsub_v3_0_5.xbip_addsub_v3_0_5_viv_comp
+Compiling package c_addsub_v12_0_12.c_addsub_v12_0_12_pkg
+Compiling package c_addsub_v12_0_12.c_addsub_v12_0_12_pkg_legacy
+Compiling package xbip_dsp48_addsub_v3_0_5.xbip_dsp48_addsub_v3_0_5_viv_com...
+Compiling package ieee.std_logic_arith
+Compiling package xbip_dsp48_addsub_v3_0_5.xbip_dsp48_addsub_v3_0_5_pkg
+Compiling package xbip_dsp48_wrapper_v3_0_4.xbip_dsp48_wrapper_v3_0_4_pkg
+Compiling package unisim.vcomponents
+Compiling package ieee.std_logic_signed
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling module xil_defaultlib.axis_control
+Compiling module xil_defaultlib.AXIS_SUB_axis_control_0_0
+Compiling architecture dsp48e1_v of entity unisim.DSP48E1 [\DSP48E1(acascreg=0,adreg=0,alum...]
+Compiling architecture synth of entity xbip_dsp48_wrapper_v3_0_4.xbip_dsp48e1_wrapper_v3_0 [\xbip_dsp48e1_wrapper_v3_0(acasc...]
+Compiling architecture synth of entity xbip_dsp48_addsub_v3_0_5.xbip_dsp48_addsub_synth [\xbip_dsp48_addsub_synth(c_xdevi...]
+Compiling architecture synth of entity xbip_dsp48_addsub_v3_0_5.xbip_dsp48_addsub_v3_0_5_viv [\xbip_dsp48_addsub_v3_0_5_viv(c_...]
+Compiling architecture synth of entity xbip_addsub_v3_0_5.xbip_addsub_v3_0_5_viv [\xbip_addsub_v3_0_5_viv(c_xdevic...]
+Compiling architecture synth of entity xbip_pipe_v3_0_5.xbip_pipe_v3_0_5_viv [\xbip_pipe_v3_0_5_viv(c_has_ce=1...]
+Compiling architecture synth of entity c_addsub_v12_0_12.c_addsub_v12_0_12_viv [\c_addsub_v12_0_12_viv(c_xdevice...]
+Compiling architecture xilinx of entity c_addsub_v12_0_12.c_addsub_v12_0_12 [\c_addsub_v12_0_12(c_xdevicefami...]
+Compiling architecture axis_sub_c_addsub_0_0_arch of entity xil_defaultlib.AXIS_SUB_c_addsub_0_0 [axis_sub_c_addsub_0_0_default]
+Compiling module xil_defaultlib.AXIS_SUB
+Compiling module xil_defaultlib.AXIS_SUB_wrapper
+Compiling module xil_defaultlib.AXIS_SUB_TB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot AXIS_SUB_TB_behav

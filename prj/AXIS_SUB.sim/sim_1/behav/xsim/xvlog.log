@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code_repositories/fpga_code/AXIS_SUB/rtl/axis_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axis_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code_repositories/fpga_code/AXIS_SUB/prj/AXIS_SUB.srcs/sources_1/bd/AXIS_SUB/ip/AXIS_SUB_axis_control_0_0/sim/AXIS_SUB_axis_control_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXIS_SUB_axis_control_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code_repositories/fpga_code/AXIS_SUB/prj/AXIS_SUB.srcs/sources_1/bd/AXIS_SUB/sim/AXIS_SUB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXIS_SUB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code_repositories/fpga_code/AXIS_SUB/prj/AXIS_SUB.srcs/sources_1/bd/AXIS_SUB/hdl/AXIS_SUB_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXIS_SUB_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code_repositories/fpga_code/AXIS_SUB/sim/AXIS_SUB_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXIS_SUB_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code_repositories/fpga_code/AXIS_SUB/prj/AXIS_SUB.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

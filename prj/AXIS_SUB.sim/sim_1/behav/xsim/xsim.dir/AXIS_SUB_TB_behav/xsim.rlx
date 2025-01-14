@@ -1,0 +1,12 @@
+
+{ 
+    crc :  3177782466779818589  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto a49104cbd3024b4ca4e716b5663968f0 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xbip_utils_v3_0_9 -L c_reg_fd_v12_0_5 -L xbip_dsp48_wrapper_v3_0_4 -L xbip_pipe_v3_0_5 -L xbip_dsp48_addsub_v3_0_5 -L xbip_addsub_v3_0_5 -L c_addsub_v12_0_12 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot AXIS_SUB_TB_behav xil_defaultlib.AXIS_SUB_TB xil_defaultlib.glbl" , 
+    buildDate : "Dec  7 2018" , 
+    buildTime : "00:33:28" , 
+    linkCmd : "D:\\Xilinx\\Vivado\\2018.3\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/AXIS_SUB_TB_behav/xsimk.exe\"   \"xsim.dir/AXIS_SUB_TB_behav/obj/xsim_0.win64.obj\" \"xsim.dir/AXIS_SUB_TB_behav/obj/xsim_1.win64.obj\" -L\"D:\\Xilinx\\Vivado\\2018.3\\lib\\win64.o\" -lrdi_simulator_kernel  -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

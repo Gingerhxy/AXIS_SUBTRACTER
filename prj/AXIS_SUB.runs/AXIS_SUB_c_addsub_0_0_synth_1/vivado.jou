@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Jan 13 21:29:58 2025
+# Process ID: 27476
+# Current directory: D:/Code_repositories/fpga_code/AXIS_SUB/prj/AXIS_SUB.runs/AXIS_SUB_c_addsub_0_0_synth_1
+# Command line: vivado.exe -log AXIS_SUB_c_addsub_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source AXIS_SUB_c_addsub_0_0.tcl
+# Log file: D:/Code_repositories/fpga_code/AXIS_SUB/prj/AXIS_SUB.runs/AXIS_SUB_c_addsub_0_0_synth_1/AXIS_SUB_c_addsub_0_0.vds
+# Journal file: D:/Code_repositories/fpga_code/AXIS_SUB/prj/AXIS_SUB.runs/AXIS_SUB_c_addsub_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source AXIS_SUB_c_addsub_0_0.tcl -notrace
